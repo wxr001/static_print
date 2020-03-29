@@ -1,7 +1,7 @@
 # static_print
 This project is a **C++14** header-only library that helps you debugging the TMP codes by printing out the type name in warning messages.
 
-Compared with traditional stop-the-world methos like `no type named ...`, this library don't stop the compiling process. Therefore you can use this in a recursion to know the details.
+Compared with traditional stop-the-world methods like `no type named ...`, this library don't stop the compiling process. It just gives you a "harmless" warning message.
 
 ## Usage
 
